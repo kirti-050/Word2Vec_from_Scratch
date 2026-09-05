@@ -1,6 +1,6 @@
 # Word2Vec From Scratch (NumPy)
 
-A from-scratch implementation of the Word2Vec skip-gram model, built using only NumPy — no deep learning frameworks. Built as a follow-up to my [MNIST Neural Network from Scratch](https://github.com/kirti-050/MNIST-Neural-Net-from-Scratch) project, continuing a "from scratch" learning series.
+A from-scratch implementation of the Word2Vec skip-gram model, built using only NumPy — no deep learning frameworks. Built as a follow-up to my [MNIST Neural Network from Scratch](https://github.com/kirti-050/MNIST-Neural-Network) project, continuing a "from scratch" learning series.
 
 ## What this project covers
 
