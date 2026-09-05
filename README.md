@@ -26,6 +26,9 @@ Full-vocabulary softmax computes a score against every word in the vocabulary fo
 | Toy sentence, negative sampling | 7 words | Noisy oscillation (45–51) — expected, since negative sampling has little to save at this scale |
 | text8 slice, negative sampling | 3,000 words | Smooth decrease, ~44,000 → ~13,000 over 10 epochs |
 
+![Toy Sentence Loss Curve]((images/toy_softmax_loss_curve.png)
+![text8 Loss Curve]((images/text8_loss_curve.png)
+
 **Cosine similarity, before vs. after training (text8 slice):**
 
 | Word pair | Before | After |
